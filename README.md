@@ -14,5 +14,5 @@ In the talk we will show how to integrate Polymer component and FireBase, the Mo
 ![QR](https://github.com/Twiinlab/polyfire-summit/blob/master/images/photodesktop.png)
 ![polymerfire-board](https://github.com/Twiinlab/polyfire-summit/blob/master/images/ezgif.com-video-to-gif.gif)
 
- ## Source code: 
- updating code to polymerfire last release coming soon! ;)
+## Source code: 
+updating code to polymerfire last release coming soon! ;)
